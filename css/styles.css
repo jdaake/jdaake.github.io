@@ -1,4 +1,8 @@
-h1, h2, h3, h4, h5 {
+h1,
+h2,
+h3,
+h4,
+h5 {
   color: #4A4E69;
   font-weight: 300;
   font-family: 'Open Sans', sans-serif;
@@ -37,7 +41,7 @@ hr {
 
 .row-header {
   padding: 10vh 10vw 0 10vw;
-  background-image: url('../img/code.jpg');
+  background-image: url('../img/backgroundImg.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -115,7 +119,7 @@ hr {
 .row-footer {
   padding: 0vh 10vw 10vw 10vw;
   margin-top: 100px;
-  background-image: url('../img/code.jpg');
+  background-image: url('../img/backgroundImg.jpg');
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
@@ -152,12 +156,17 @@ hr {
   border-radius: 5px;
 }
 
-.btn-primary.outline:hover, .btn-primary.outline:focus, .btn-primary.outline:active, .btn-primary.outline.active, .open>.dropdown-toggle.btn-primary {
+.btn-primary.outline:hover,
+.btn-primary.outline:focus,
+.btn-primary.outline:active,
+.btn-primary.outline.active,
+.open>.dropdown-toggle.btn-primary {
   color: #33a6cc;
   border-color: #33a6cc;
 }
 
-.btn-primary.outline:active, .btn-primary.outline.active {
+.btn-primary.outline:active,
+.btn-primary.outline.active {
   border-color: #007299;
   color: #007299;
   box-shadow: none;
