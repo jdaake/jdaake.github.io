@@ -41,7 +41,7 @@ $(function () {
       role: "advanced"
     },
     {
-      email: "email",
+      email: "email@email.com",
       password: "password",
       birthday: "1985-11-12 00:00:00",
       role: "admin"
