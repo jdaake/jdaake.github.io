@@ -39,6 +39,12 @@ $(function () {
       password: "volimbaku",
       birthday: "1995-06-06 00:00:00",
       role: "advanced"
+    },
+    {
+      email: "username",
+      password: "password",
+      birthday: "1985-11-12 00:00:00",
+      role: "admin"
     }
   ];
 
