@@ -95,7 +95,8 @@ hr {
   margin: auto;
 }
 
-.techlogo {
+.techlogo,
+.iconify {
   width: 140px;
 }
 
